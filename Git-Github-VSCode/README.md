@@ -6,7 +6,7 @@ Source: https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim
 
 What is Git / Github?
 -Git: a version control system, running on local machine. 
--Github: GUI hosted git
+-Github: GUI hosted git, platform for hosting and collaborating on Git repositories
 Track all the changes. 
 Historical backup all the "snapshots". 
 Team based development. 
@@ -50,6 +50,17 @@ git commit -m "describe"
 git rm --cached <file>
 git rm -r --cached .
 -> remove all staged files
+
+-Check for changes /log
+git log
+git show <hash> :check the specific changes of a version using that version's hash
+git diff :check the differents
+color green: means addition, red means modified
+git restore: restore the change.
+
+-Amend a commit message:
+git commit --amend -m "messages"
+
 
 -Create a new branch:
 git checkout -b new : switch to a new branch "new"
