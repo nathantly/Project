@@ -3,6 +3,7 @@ Why: to be efficency in coding
 How: Using online materials to learn and practice
 Source: https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim
   https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode Stop at 52:00
+  https://www.golinuxcloud.com/git-command-cheat-sheet/#9_git_log
 
 What is Git / Github?
 -Git: a version control system, running on local machine. 
