@@ -36,13 +36,20 @@ git init
 
 -Add a file : not yet commit, just add the changes to the staging area.
 git add [name] : add a file to staging area
-git add . : add all files 
+git add . : add all files from the current directory downward
+EX: /home/nathan/Project/Create_a_website$ git add .   -> will only add files in Create_a_website directory downward, not in Project directory 
+git add -A : add ALL files.
 
 -Check status
 git status
 
--Commit
+-Commit: create a save point.
 git commit -m "describe"
+
+-Unstage / remove added file
+git rm --cached <file>
+git rm -r --cached .
+-> remove all staged files
 
 -Create a new branch:
 git checkout -b new : switch to a new branch "new"
