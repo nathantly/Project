@@ -4,10 +4,26 @@ How: Using online materials to learn and practice
 Source: https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim
 
 What is Git / Github?
+-Git: a version control system, running on local machine. 
+-Github: GUI hosted git
+Track all the changes. 
+Historical backup all the "snapshots". 
+Team based development. 
+Flexible - Can work localy/remotely
+CLI vs web
+Trunk-based development: can create branches, which each can work independently and merge after finished/tested
+
 -Repository /Local repository/ Remote repository
+Place to store the codes and changes of them.
+
+-Clone vs Pull
+git clone: create a copy of an existing repository
+git pull: update the local copy with the new commits from the remote repository.
 -Commit
 -Push
 -Master / branch
+-Merge / conflict
+-Pull request(PR): Changes that need to approved and merge to the branch/master
 -Initalize a git repository: -> can use git command after, everything in this repository is tracked by git
 git init
 
@@ -34,8 +50,11 @@ git merge master/[branchname]
 git remote add origin/[name] [link]
 
 -Push changes to remote repository
-git push -u origin/[repositooryname] master/[branchname]
+git push -u origin/[repositoryname]/[destination] master/[branchname]/[location]
 -u: save the setting of this command, next time we only need to use: git push
+
+-Pull changes from github
+git pull origin/[remoterepositoryname] master/[nameofthebranch]
 
 -set up global name, that recognize in github
 git config --global user.name "Nate"
