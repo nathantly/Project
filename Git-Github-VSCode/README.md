@@ -2,6 +2,7 @@ What: Get familiar with Git, Github, and VSCode
 Why: to be efficency in coding
 How: Using online materials to learn and practice
 Source: https://www.youtube.com/watch?v=DVRQoVRzMIY&ab_channel=TechWithTim
+  https://www.youtube.com/watch?v=3fUbBnN_H2c&ab_channel=Amigoscode
 
 What is Git / Github?
 -Git: a version control system, running on local machine. 
@@ -12,6 +13,8 @@ Team based development.
 Flexible - Can work localy/remotely
 CLI vs web
 Trunk-based development: can create branches, which each can work independently and merge after finished/tested
+
+Working Directory --git add --> Staging Area ---git commit --> Commit History ---git push----> Remote Repository.
 
 -Repository /Local repository/ Remote repository
 Place to store the codes and changes of them.
@@ -24,6 +27,10 @@ git pull: update the local copy with the new commits from the remote repository.
 -Master / branch
 -Merge / conflict
 -Pull request(PR): Changes that need to approved and merge to the branch/master
+
+-git --help
+git help [command]
+
 -Initalize a git repository: -> can use git command after, everything in this repository is tracked by git
 git init
 
