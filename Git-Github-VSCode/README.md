@@ -59,3 +59,4 @@ git pull origin/[remoterepositoryname] master/[nameofthebranch]
 -set up global name, that recognize in github
 git config --global user.name "Nate"
 git config --global user.email "[email]"
+cc
