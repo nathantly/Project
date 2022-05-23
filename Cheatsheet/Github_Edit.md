@@ -79,3 +79,16 @@ Check out [the emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/b
 Using `[^1]` [^1]
 and `[^1]:` for context
 [^1]: for context
+
+## Hiding content with comments
+Using HTML comment `<!-- This is hidden  -->`
+<!-- This is hidden, yes it is!  -->
+
+## Ignore Markdown formatting
+Using `\`
+
+## Collapsed sections
+Using `<details> tag`
+<details>
+Check out
+</details>
