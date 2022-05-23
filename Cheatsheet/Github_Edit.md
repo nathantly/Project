@@ -21,10 +21,16 @@ Text that is not quoted
 
 ## Quoting code
 Using single backticks \`   \` to `quote` within a sentence
-or using \```   ``` to quote multiple sentences
+or using \```(Programming language - optional)   ``` to quote multiple sentences
 
 ```
 git add .
 git commit -m "Update"
 git push
 ```
+
+## Link
+Create a link by wrap the text in `[]` and link in `()`
+`Check out my linkedin profile [Nathanly](https://www.linkedin.com/in/nathan-ly-93ba2b180/)`
+
+Check out my linkedin profile [Nathanly](https://www.linkedin.com/in/nathan-ly-93ba2b180/)
