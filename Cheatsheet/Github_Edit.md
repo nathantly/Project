@@ -51,7 +51,7 @@ Ex: `![JP Lobster](../assests/jplobster.jpeg)`
 ![JP Lobster](../assests/jplobster.jpeg)
 
 ### Specifying the themes
-by adding `#gh-dark-mode-only` or `#gh-light-mode-only
+by adding `#gh-dark-mode-only` or `#gh-light-mode-only`
 
 
 ## Lists, nested lists
@@ -63,3 +63,19 @@ Order `number.`
    - Tuesday afternoon
 
 
+## Task lists
+`- []` create a task
+`- [x]` mark the task as complete
+
+- [] Pay internet bill
+- [x] Spend money on Warhammer figures
+
+## Using emoji
+Using `:emojicode:`
+`:+1:` is :+1:
+Check out [the emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+## Footnotes
+Using `[^1]` [^1]
+and `[^1]:` for context
+[^1]: for context
