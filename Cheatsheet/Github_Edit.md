@@ -30,7 +30,36 @@ git push
 ```
 
 ## Link
-Create a link by wrap the text in `[]` and link in `()`
+Create a link by wrap the text in `[]` and link in `()` 
 `Check out my linkedin profile [Nathanly](https://www.linkedin.com/in/nathan-ly-93ba2b180/)`
 
 Check out my linkedin profile [Nathanly](https://www.linkedin.com/in/nathan-ly-93ba2b180/)
+
+## Section links
+Instruction unclear...
+
+## Relative links
+Same as normal link but we replace the path of the file/image in Github
+
+`Check out me Volcab file [Volcab](../Volcab.md)`
+
+Check out me Volcab file [Volcab](../Volcab.md)
+
+## Images
+Adding `!` then `[]` then `()`
+Ex: `![JP Lobster](../assests/jplobster.jpeg)`
+![JP Lobster](../assests/jplobster.jpeg)
+
+### Specifying the themes
+by adding `#gh-dark-mode-only` or `#gh-light-mode-only
+
+
+## Lists, nested lists
+Unorder `-` or `*`
+Order `number.`
+1. Monday
+2. Tuesday
+   - Tuesday morning
+   - Tuesday afternoon
+
+
