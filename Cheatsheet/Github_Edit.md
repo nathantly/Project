@@ -24,8 +24,11 @@ Text that is not quoted
 > Text that is quoted
 
 ## Quoting code
-Using single backticks \`   \` to `quote` within a sentence<br/>
-or using \```(Programming language - optional)   ``` to quote multiple sentences
+Using single backticks \`  \` to `quote` within a sentence<br/>
+or using \```(Programming language - optional)\
+\
+\
+``` to quote multiple sentences
 
 ```
 git add .
