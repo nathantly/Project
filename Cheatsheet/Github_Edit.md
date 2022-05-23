@@ -5,10 +5,10 @@ Simply put # at the beginning of the sentence.
 (######) is the smallest
 
 ## Styling text
-**Bold** ** <text> **   
+**Bold**        **  **   
 
-*Italic*    * <text> *
+*Italic*        *  *
 
-~~Strkie through ~~     ~~ <text> ~ ~
+~~Strikee through~~     ~~   ~~
 
-<Subscript>       < text >
+<Subscript>       <   >
