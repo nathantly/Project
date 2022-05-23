@@ -64,10 +64,10 @@ Order `number.`
 
 
 ## Task lists
-`- []` create a task
+`- [ ]` create a task
 `- [x]` mark the task as complete
 
-- [] Pay internet bill
+- [ ] Pay internet bill
 - [x] Spend money on Warhammer figures
 
 ## Using emoji
