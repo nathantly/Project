@@ -20,10 +20,11 @@ Text that is not quoted
 > Text that is quoted
 
 ## Quoting code
-Using single backticks ' ' to 'quote' within a sentence
-or using '''   ''' to quote multiple sentences
-'''
+Using single backticks ` ` to `quote` within a sentence
+or using ```   ``` to quote multiple sentences
+
+```
 git add .
 git commit -m "Update"
 git push
-'''
+```
