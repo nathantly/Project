@@ -88,7 +88,7 @@ Using HTML comment `<!-- This is hidden  -->`
 Using `\`
 
 ## Collapsed sections
-Using `<details>   </details> tag`
+Using `<details><summary> button text</summary>   content   </details>`
 <details><summary>DO NOT CLICK</summary>
 Check out
 </details>
