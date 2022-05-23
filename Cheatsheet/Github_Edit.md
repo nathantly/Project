@@ -25,10 +25,7 @@ Text that is not quoted
 
 ## Quoting code
 Using single backticks \`  \` to `quote` within a sentence<br/>
-or using ```(Programming language - optional)\
-\
-\
-``` to quote multiple sentences
+or using \```(Programming language - optional)    ``` to quote multiple sentences
 
 ```
 git add .
