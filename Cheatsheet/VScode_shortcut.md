@@ -90,3 +90,4 @@ kill %1
 
 1. http://cnswww.cns.cwru.edu/php/chet/readline/readline.html
 2. https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/README.md
+https://github.com/tuxfight3r/the-book-of-secret-knowledge
